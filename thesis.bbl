@@ -95,6 +95,11 @@ Segata, N., Izard, J., Waldron, L., Gevers, D., Miropolsky, L., Garrett, W.~S.,
 \newblock Metagenomic biomarker discovery and explanation.
 \newblock {\em Genome Biol}, 12(6):R60.
 
+\bibitem[Shipman, 2005]{shipman2005tkinter}
+Shipman, J.~W. (2005).
+\newblock Tkinter reference: a gui for python.
+\newblock Technical report, Technical report, New Mexico Tech Computer Center.
+
 \bibitem[Sievers et~al., 2011]{sievers2011fast}
 Sievers, F., Wilm, A., Dineen, D., Gibson, T.~J., Karplus, K., Li, W., Lopez,
   R., McWilliam, H., Remmert, M., S{\"o}ding, J., et~al. (2011).
