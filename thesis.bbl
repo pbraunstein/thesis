@@ -11,6 +11,28 @@ Chen, K. and Pachter, L. (2005).
   communities.
 \newblock {\em PLoS Comput Biol}, 1(2):106--112.
 
+\bibitem[Fleischmann et~al., 1995]{fleischmann1995whole}
+Fleischmann, R.~D., Adams, M.~D., White, O., Clayton, R.~A., Kirkness, E.~F.,
+  Kerlavage, A.~R., Bult, C.~J., Tomb, J.-F., Dougherty, B.~A., Merrick, J.~M.,
+  et~al. (1995).
+\newblock Whole-genome random sequencing and assembly of haemophilus influenzae
+  rd.
+\newblock {\em Science}, 269(5223):496--512.
+
+\bibitem[Gl{\"o}ckner et~al., 2000]{glockner2000comparative}
+Gl{\"o}ckner, F.~O., Zaichikov, E., Belkova, N., Denissova, L., Pernthaler, J.,
+  Pernthaler, A., and Amann, R. (2000).
+\newblock Comparative 16s rrna analysis of lake bacterioplankton reveals
+  globally distributed phylogenetic clusters including an abundant group of
+  actinobacteria.
+\newblock {\em Applied and Environmental Microbiology}, 66(11):5053--5065.
+
+\bibitem[Henikoff and Henikoff, 1992]{henikoff1992amino}
+Henikoff, S. and Henikoff, J.~G. (1992).
+\newblock Amino acid substitution matrices from protein blocks.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  89(22):10915--10919.
+
 \bibitem[Johnson et~al., 2007]{johnson2007genome}
 Johnson, D.~S., Mortazavi, A., Myers, R.~M., and Wold, B. (2007).
 \newblock Genome-wide mapping of in vivo protein-dna interactions.
@@ -43,6 +65,35 @@ Qin, J., Li, R., Raes, J., Arumugam, M., Burgdorf, K.~S., Manichanh, C.,
 \newblock A human gut microbial gene catalogue established by metagenomic
   sequencing.
 \newblock {\em nature}, 464(7285):59--65.
+
+\bibitem[Rice et~al., 2000]{rice2000emboss}
+Rice, P., Longden, I., Bleasby, A., et~al. (2000).
+\newblock Emboss: the european molecular biology open software suite.
+\newblock {\em Trends in genetics}, 16(6):276--277.
+
+\bibitem[Roach et~al., 1995]{roach1995pairwise}
+Roach, J.~C., Boysen, C., Wang, K., and Hood, L. (1995).
+\newblock Pairwise end sequencing: a unified approach to genomic mapping and
+  sequencing.
+\newblock {\em Genomics}, 26(2):345--353.
+
+\bibitem[Rowling, 1997]{rowling1997harry}
+Rowling, J.~K. (1997).
+\newblock {\em Harry Potter and the Philosopher's Stone: Harry Potter. Book
+  One}.
+\newblock Bloomsbury.
+
+\bibitem[Sanger et~al., 1977]{sanger1977dna}
+Sanger, F., Nicklen, S., and Coulson, A.~R. (1977).
+\newblock Dna sequencing with chain-terminating inhibitors.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  74(12):5463--5467.
+
+\bibitem[Segata et~al., 2011]{segata2011metagenomic}
+Segata, N., Izard, J., Waldron, L., Gevers, D., Miropolsky, L., Garrett, W.~S.,
+  and Huttenhower, C. (2011).
+\newblock Metagenomic biomarker discovery and explanation.
+\newblock {\em Genome Biol}, 12(6):R60.
 
 \bibitem[Sievers et~al., 2011]{sievers2011fast}
 Sievers, F., Wilm, A., Dineen, D., Gibson, T.~J., Karplus, K., Li, W., Lopez,
