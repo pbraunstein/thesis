@@ -5,11 +5,44 @@ Altschul, S.~F., Gish, W., Miller, W., Myers, E.~W., and Lipman, D.~J. (1990).
 \newblock Basic local alignment search tool.
 \newblock {\em Journal of molecular biology}, 215(3):403--410.
 
+\bibitem[Chen and Pachter, 2005]{chen2005bioinformatics}
+Chen, K. and Pachter, L. (2005).
+\newblock Bioinformatics for whole-genome shotgun sequencing of microbial
+  communities.
+\newblock {\em PLoS Comput Biol}, 1(2):106--112.
+
+\bibitem[Johnson et~al., 2007]{johnson2007genome}
+Johnson, D.~S., Mortazavi, A., Myers, R.~M., and Wold, B. (2007).
+\newblock Genome-wide mapping of in vivo protein-dna interactions.
+\newblock {\em Science}, 316(5830):1497--1502.
+
+\bibitem[Langille et~al., 2013]{langille2013predictive}
+Langille, M.~G., Zaneveld, J., Caporaso, J.~G., McDonald, D., Knights, D.,
+  Reyes, J.~A., Clemente, J.~C., Burkepile, D.~E., Thurber, R. L.~V., Knight,
+  R., et~al. (2013).
+\newblock Predictive functional profiling of microbial communities using 16s
+  rrna marker gene sequences.
+\newblock {\em Nature biotechnology}, 31(9):814--821.
+
+\bibitem[Nagalakshmi et~al., 2008]{nagalakshmi2008transcriptional}
+Nagalakshmi, U., Wang, Z., Waern, K., Shou, C., Raha, D., Gerstein, M., and
+  Snyder, M. (2008).
+\newblock The transcriptional landscape of the yeast genome defined by rna
+  sequencing.
+\newblock {\em Science}, 320(5881):1344--1349.
+
 \bibitem[Needleman and Wunsch, 1970]{needleman1970general}
 Needleman, S.~B. and Wunsch, C.~D. (1970).
 \newblock A general method applicable to the search for similarities in the
   amino acid sequence of two proteins.
 \newblock {\em Journal of molecular biology}, 48(3):443--453.
+
+\bibitem[Qin et~al., 2010]{qin2010human}
+Qin, J., Li, R., Raes, J., Arumugam, M., Burgdorf, K.~S., Manichanh, C.,
+  Nielsen, T., Pons, N., Levenez, F., Yamada, T., et~al. (2010).
+\newblock A human gut microbial gene catalogue established by metagenomic
+  sequencing.
+\newblock {\em nature}, 464(7285):59--65.
 
 \bibitem[Sievers et~al., 2011]{sievers2011fast}
 Sievers, F., Wilm, A., Dineen, D., Gibson, T.~J., Karplus, K., Li, W., Lopez,
