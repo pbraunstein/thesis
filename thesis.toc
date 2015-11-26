@@ -1,0 +1,52 @@
+\contentsline {chapter}{\numberline {1}Teaching and Curriculum Development}{4}{chapter.1}
+\contentsline {section}{\numberline {1.1}Overview}{4}{section.1.1}
+\contentsline {section}{\numberline {1.2}Topics Covered}{4}{section.1.2}
+\contentsline {section}{\numberline {1.3}Computer Science Labs}{6}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Global and Local Alignment}{6}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}BLAST}{6}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Multiple Sequence Alignment}{6}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Mutations Investigations Experiment Analysis}{7}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {1.3.5}Microbiome Portrait Experiment Analysis}{7}{subsection.1.3.5}
+\contentsline {subsection}{\numberline {1.3.6}Fastq Knowledge}{7}{subsection.1.3.6}
+\contentsline {section}{\numberline {1.4}Classroom Activities}{7}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Sliding Window Activity}{8}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Alignment Worksheets}{8}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Sanger Sequencing Worksheet}{8}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}Graph Drawing}{8}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {1.4.5}Protein Alignment Worksheet}{8}{subsection.1.4.5}
+\contentsline {subsection}{\numberline {1.4.6}Paired-End Sequencing Quotations Activity}{8}{subsection.1.4.6}
+\contentsline {subsection}{\numberline {1.4.7}Coverage Word-Search}{9}{subsection.1.4.7}
+\contentsline {subsection}{\numberline {1.4.8}Sorting Hat Assembly Song}{9}{subsection.1.4.8}
+\contentsline {subsection}{\numberline {1.4.9}Sequencing Techniques Worksheet}{9}{subsection.1.4.9}
+\contentsline {subsection}{\numberline {1.4.10}16S Microbiome Analysis Activity}{9}{subsection.1.4.10}
+\contentsline {chapter}{\numberline {2}Development of Analysis Code}{12}{chapter.2}
+\contentsline {section}{\numberline {2.1}Overview}{12}{section.2.1}
+\contentsline {section}{\numberline {2.2}Genetics of Race}{12}{section.2.2}
+\contentsline {section}{\numberline {2.3}Metagenomics Analysis}{13}{section.2.3}
+\contentsline {section}{\numberline {2.4}Mac OS X and Windows Desktop App for Genetics of Race}{13}{section.2.4}
+\contentsline {chapter}{\numberline {3}Mentorship}{15}{chapter.3}
+\contentsline {section}{\numberline {3.1}Overview}{15}{section.3.1}
+\contentsline {section}{\numberline {3.2}Website development}{15}{section.3.2}
+\contentsline {section}{\numberline {3.3}Introduction to Programming Course for Undergraduate BioSeqers}{15}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Overview}{15}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Demo}{16}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}a1}{16}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}a2}{17}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}a3}{17}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}a4}{17}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.7}a5}{17}{subsection.3.3.7}
+\contentsline {section}{\numberline {3.4}Professional Development Material for BioSeq Members}{18}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Overview}{18}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}How to Get Data and How to Store It}{18}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Bioinformatics Tools}{18}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Resources at Tufts and Introduction to the Command Line}{19}{subsection.3.4.4}
+\contentsline {chapter}{\numberline {4}Development of Computer Science-Only Module}{20}{chapter.4}
+\contentsline {section}{\numberline {4.1}Overview}{20}{section.4.1}
+\contentsline {section}{\numberline {4.2}Setup}{20}{section.4.2}
+\contentsline {section}{\numberline {4.3}Procedure}{21}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Obtaining the Data}{21}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Creating a Galaxy Account and Uploading the Data}{21}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Formatting the Data}{21}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Aligning the Reads}{21}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Assembling Transcripts}{21}{subsection.4.3.5}
+\contentsline {subsection}{\numberline {4.3.6}Comparing}{21}{subsection.4.3.6}
