@@ -5,4 +5,22 @@ Altschul, S.~F., Gish, W., Miller, W., Myers, E.~W., and Lipman, D.~J. (1990).
 \newblock Basic local alignment search tool.
 \newblock {\em Journal of molecular biology}, 215(3):403--410.
 
+\bibitem[Needleman and Wunsch, 1970]{needleman1970general}
+Needleman, S.~B. and Wunsch, C.~D. (1970).
+\newblock A general method applicable to the search for similarities in the
+  amino acid sequence of two proteins.
+\newblock {\em Journal of molecular biology}, 48(3):443--453.
+
+\bibitem[Sievers et~al., 2011]{sievers2011fast}
+Sievers, F., Wilm, A., Dineen, D., Gibson, T.~J., Karplus, K., Li, W., Lopez,
+  R., McWilliam, H., Remmert, M., S{\"o}ding, J., et~al. (2011).
+\newblock Fast, scalable generation of high-quality protein multiple sequence
+  alignments using clustal omega.
+\newblock {\em Molecular systems biology}, 7(1):539.
+
+\bibitem[Smith and Waterman, 1981]{smith1981identification}
+Smith, T.~F. and Waterman, M.~S. (1981).
+\newblock Identification of common molecular subsequences.
+\newblock {\em Journal of molecular biology}, 147(1):195--197.
+
 \end{thebibliography}
