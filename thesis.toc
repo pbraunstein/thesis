@@ -27,18 +27,18 @@
 \contentsline {chapter}{\numberline {3}Mentorship}{15}{chapter.3}
 \contentsline {section}{\numberline {3.1}Overview}{15}{section.3.1}
 \contentsline {section}{\numberline {3.2}Website development}{15}{section.3.2}
-\contentsline {section}{\numberline {3.3}Introduction to Programming Course for Undergraduate BioSeqers}{15}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Overview}{15}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.3}Introduction to Programming Course for Undergraduate BioSeqers}{16}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Overview}{16}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Demo}{16}{subsection.3.3.2}
 \contentsline {subsection}{\numberline {3.3.3}a1}{16}{subsection.3.3.3}
 \contentsline {subsection}{\numberline {3.3.4}a2}{17}{subsection.3.3.4}
 \contentsline {subsection}{\numberline {3.3.5}a3}{17}{subsection.3.3.5}
 \contentsline {subsection}{\numberline {3.3.6}a4}{17}{subsection.3.3.6}
-\contentsline {subsection}{\numberline {3.3.7}a5}{17}{subsection.3.3.7}
+\contentsline {subsection}{\numberline {3.3.7}a5}{18}{subsection.3.3.7}
 \contentsline {section}{\numberline {3.4}Professional Development Material for BioSeq Members}{18}{section.3.4}
 \contentsline {subsection}{\numberline {3.4.1}Overview}{18}{subsection.3.4.1}
 \contentsline {subsection}{\numberline {3.4.2}How to Get Data and How to Store It}{18}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Bioinformatics Tools}{18}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.3}Bioinformatics Tools}{19}{subsection.3.4.3}
 \contentsline {subsection}{\numberline {3.4.4}Resources at Tufts and Introduction to the Command Line}{19}{subsection.3.4.4}
 \contentsline {chapter}{\numberline {4}Development of Computer Science-Only Module}{20}{chapter.4}
 \contentsline {section}{\numberline {4.1}Overview}{20}{section.4.1}

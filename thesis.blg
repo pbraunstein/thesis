@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: apalike.bst
 Database file #1: thesis.bib
-You've used 18 entries,
+You've used 27 entries,
             1935 wiz_defined-function locations,
-            597 strings with 7814 characters,
-and the built_in function-call counts, 8826 in all, are:
-= -- 828
-> -- 527
-< -- 6
-+ -- 196
-- -- 190
-* -- 864
-:= -- 1565
-add.period$ -- 54
-call.type$ -- 18
-change.case$ -- 180
-chr.to.int$ -- 18
-cite$ -- 18
-duplicate$ -- 249
-empty$ -- 524
-format.name$ -- 216
-if$ -- 1649
+            647 strings with 9798 characters,
+and the built_in function-call counts, 13895 in all, are:
+= -- 1297
+> -- 874
+< -- 7
++ -- 332
+- -- 318
+* -- 1365
+:= -- 2451
+add.period$ -- 81
+call.type$ -- 27
+change.case$ -- 286
+chr.to.int$ -- 27
+cite$ -- 27
+duplicate$ -- 390
+empty$ -- 792
+format.name$ -- 353
+if$ -- 2598
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 18
-newline$ -- 93
-num.names$ -- 54
-pop$ -- 144
+missing$ -- 27
+newline$ -- 138
+num.names$ -- 81
+pop$ -- 235
 preamble$ -- 1
-purify$ -- 180
+purify$ -- 286
 quote$ -- 0
-skip$ -- 189
+skip$ -- 302
 stack$ -- 0
-substring$ -- 620
-swap$ -- 17
-text.length$ -- 0
+substring$ -- 944
+swap$ -- 41
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 106
+type$ -- 160
 warning$ -- 0
-while$ -- 66
+while$ -- 101
 width$ -- 0
-write$ -- 235
+write$ -- 352

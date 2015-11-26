@@ -5,11 +5,42 @@ Altschul, S.~F., Gish, W., Miller, W., Myers, E.~W., and Lipman, D.~J. (1990).
 \newblock Basic local alignment search tool.
 \newblock {\em Journal of molecular biology}, 215(3):403--410.
 
+\bibitem[Apweiler et~al., 2004]{apweiler2004uniprot}
+Apweiler, R., Bairoch, A., Wu, C.~H., Barker, W.~C., Boeckmann, B., Ferro, S.,
+  Gasteiger, E., Huang, H., Lopez, R., Magrane, M., et~al. (2004).
+\newblock Uniprot: the universal protein knowledgebase.
+\newblock {\em Nucleic acids research}, 32(suppl 1):D115--D119.
+
+\bibitem[Ashburner et~al., 2000]{ashburner2000gene}
+Ashburner, M., Ball, C.~A., Blake, J.~A., Botstein, D., Butler, H., Cherry,
+  J.~M., Davis, A.~P., Dolinski, K., Dwight, S.~S., Eppig, J.~T., et~al.
+  (2000).
+\newblock Gene ontology: tool for the unification of biology.
+\newblock {\em Nature genetics}, 25(1):25--29.
+
+\bibitem[Berman et~al., 2000]{berman2000protein}
+Berman, H.~M., Westbrook, J., Feng, Z., Gilliland, G., Bhat, T., Weissig, H.,
+  Shindyalov, I.~N., and Bourne, P.~E. (2000).
+\newblock The protein data bank.
+\newblock {\em Nucleic acids research}, 28(1):235--242.
+
 \bibitem[Chen and Pachter, 2005]{chen2005bioinformatics}
 Chen, K. and Pachter, L. (2005).
 \newblock Bioinformatics for whole-genome shotgun sequencing of microbial
   communities.
 \newblock {\em PLoS Comput Biol}, 1(2):106--112.
+
+\bibitem[Cock et~al., 2010]{cock2010sanger}
+Cock, P.~J., Fields, C.~J., Goto, N., Heuer, M.~L., and Rice, P.~M. (2010).
+\newblock The sanger fastq file format for sequences with quality scores, and
+  the solexa/illumina fastq variants.
+\newblock {\em Nucleic acids research}, 38(6):1767--1771.
+
+\bibitem[Edgar et~al., 2002]{edgar2002gene}
+Edgar, R., Domrachev, M., and Lash, A.~E. (2002).
+\newblock Gene expression omnibus: Ncbi gene expression and hybridization array
+  data repository.
+\newblock {\em Nucleic acids research}, 30(1):207--210.
 
 \bibitem[Fleischmann et~al., 1995]{fleischmann1995whole}
 Fleischmann, R.~D., Adams, M.~D., White, O., Clayton, R.~A., Kirkness, E.~F.,
@@ -38,6 +69,12 @@ Johnson, D.~S., Mortazavi, A., Myers, R.~M., and Wold, B. (2007).
 \newblock Genome-wide mapping of in vivo protein-dna interactions.
 \newblock {\em Science}, 316(5830):1497--1502.
 
+\bibitem[Karolchik et~al., 2003]{karolchik2003ucsc}
+Karolchik, D., Baertsch, R., Diekhans, M., Furey, T.~S., Hinrichs, A., Lu, Y.,
+  Roskin, K.~M., Schwartz, M., Sugnet, C.~W., Thomas, D.~J., et~al. (2003).
+\newblock The ucsc genome browser database.
+\newblock {\em Nucleic acids research}, 31(1):51--54.
+
 \bibitem[Langille et~al., 2013]{langille2013predictive}
 Langille, M.~G., Zaneveld, J., Caporaso, J.~G., McDonald, D., Knights, D.,
   Reyes, J.~A., Clemente, J.~C., Burkepile, D.~E., Thurber, R. L.~V., Knight,
@@ -45,6 +82,11 @@ Langille, M.~G., Zaneveld, J., Caporaso, J.~G., McDonald, D., Knights, D.,
 \newblock Predictive functional profiling of microbial communities using 16s
   rrna marker gene sequences.
 \newblock {\em Nature biotechnology}, 31(9):814--821.
+
+\bibitem[Leinonen et~al., 2010]{leinonen2010sequence}
+Leinonen, R., Sugawara, H., and Shumway, M. (2010).
+\newblock The sequence read archive.
+\newblock {\em Nucleic acids research}, page gkq1019.
 
 \bibitem[Nagalakshmi et~al., 2008]{nagalakshmi2008transcriptional}
 Nagalakshmi, U., Wang, Z., Waern, K., Shou, C., Raha, D., Gerstein, M., and
@@ -58,6 +100,12 @@ Needleman, S.~B. and Wunsch, C.~D. (1970).
 \newblock A general method applicable to the search for similarities in the
   amino acid sequence of two proteins.
 \newblock {\em Journal of molecular biology}, 48(3):443--453.
+
+\bibitem[Ogata et~al., 1999]{ogata1999kegg}
+Ogata, H., Goto, S., Sato, K., Fujibuchi, W., Bono, H., and Kanehisa, M.
+  (1999).
+\newblock Kegg: Kyoto encyclopedia of genes and genomes.
+\newblock {\em Nucleic acids research}, 27(1):29--34.
 
 \bibitem[Qin et~al., 2010]{qin2010human}
 Qin, J., Li, R., Raes, J., Arumugam, M., Burgdorf, K.~S., Manichanh, C.,
@@ -111,5 +159,12 @@ Sievers, F., Wilm, A., Dineen, D., Gibson, T.~J., Karplus, K., Li, W., Lopez,
 Smith, T.~F. and Waterman, M.~S. (1981).
 \newblock Identification of common molecular subsequences.
 \newblock {\em Journal of molecular biology}, 147(1):195--197.
+
+\bibitem[Von~Mering et~al., 2003]{von2003string}
+Von~Mering, C., Huynen, M., Jaeggi, D., Schmidt, S., Bork, P., and Snel, B.
+  (2003).
+\newblock String: a database of predicted functional associations between
+  proteins.
+\newblock {\em Nucleic acids research}, 31(1):258--261.
 
 \end{thebibliography}
