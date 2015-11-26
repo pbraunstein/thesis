@@ -24,6 +24,13 @@ Berman, H.~M., Westbrook, J., Feng, Z., Gilliland, G., Bhat, T., Weissig, H.,
 \newblock The protein data bank.
 \newblock {\em Nucleic acids research}, 28(1):235--242.
 
+\bibitem[Caporaso et~al., 2010]{caporaso2010qiime}
+Caporaso, J.~G., Kuczynski, J., Stombaugh, J., Bittinger, K., Bushman, F.~D.,
+  Costello, E.~K., Fierer, N., Pena, A.~G., Goodrich, J.~K., Gordon, J.~I.,
+  et~al. (2010).
+\newblock Qiime allows analysis of high-throughput community sequencing data.
+\newblock {\em Nature methods}, 7(5):335--336.
+
 \bibitem[Chen and Pachter, 2005]{chen2005bioinformatics}
 Chen, K. and Pachter, L. (2005).
 \newblock Bioinformatics for whole-genome shotgun sequencing of microbial
@@ -83,10 +90,34 @@ Langille, M.~G., Zaneveld, J., Caporaso, J.~G., McDonald, D., Knights, D.,
   rrna marker gene sequences.
 \newblock {\em Nature biotechnology}, 31(9):814--821.
 
+\bibitem[Langmead and Salzberg, 2012]{langmead2012fast}
+Langmead, B. and Salzberg, S.~L. (2012).
+\newblock Fast gapped-read alignment with bowtie 2.
+\newblock {\em Nature methods}, 9(4):357--359.
+
 \bibitem[Leinonen et~al., 2010]{leinonen2010sequence}
 Leinonen, R., Sugawara, H., and Shumway, M. (2010).
 \newblock The sequence read archive.
 \newblock {\em Nucleic acids research}, page gkq1019.
+
+\bibitem[Li and Durbin, 2009]{li2009fast}
+Li, H. and Durbin, R. (2009).
+\newblock Fast and accurate short read alignment with burrows--wheeler
+  transform.
+\newblock {\em Bioinformatics}, 25(14):1754--1760.
+
+\bibitem[Li et~al., 2009]{li2009sequence}
+Li, H., Handsaker, B., Wysoker, A., Fennell, T., Ruan, J., Homer, N., Marth,
+  G., Abecasis, G., Durbin, R., et~al. (2009).
+\newblock The sequence alignment/map format and samtools.
+\newblock {\em Bioinformatics}, 25(16):2078--2079.
+
+\bibitem[McKenna et~al., 2010]{mckenna2010genome}
+McKenna, A., Hanna, M., Banks, E., Sivachenko, A., Cibulskis, K., Kernytsky,
+  A., Garimella, K., Altshuler, D., Gabriel, S., Daly, M., et~al. (2010).
+\newblock The genome analysis toolkit: a mapreduce framework for analyzing
+  next-generation dna sequencing data.
+\newblock {\em Genome research}, 20(9):1297--1303.
 
 \bibitem[Nagalakshmi et~al., 2008]{nagalakshmi2008transcriptional}
 Nagalakshmi, U., Wang, Z., Waern, K., Shou, C., Raha, D., Gerstein, M., and
@@ -137,6 +168,15 @@ Sanger, F., Nicklen, S., and Coulson, A.~R. (1977).
 \newblock {\em Proceedings of the National Academy of Sciences},
   74(12):5463--5467.
 
+\bibitem[Schloss et~al., 2009]{schloss2009introducing}
+Schloss, P.~D., Westcott, S.~L., Ryabin, T., Hall, J.~R., Hartmann, M.,
+  Hollister, E.~B., Lesniewski, R.~A., Oakley, B.~B., Parks, D.~H., and
+  Robinson, C.~o. (2009).
+\newblock Introducing mothur: open-source, platform-independent,
+  community-supported software for describing and comparing microbial
+  communities.
+\newblock {\em Applied and environmental microbiology}, 75(23):7537--7541.
+
 \bibitem[Segata et~al., 2011]{segata2011metagenomic}
 Segata, N., Izard, J., Waldron, L., Gevers, D., Miropolsky, L., Garrett, W.~S.,
   and Huttenhower, C. (2011).
@@ -159,6 +199,24 @@ Sievers, F., Wilm, A., Dineen, D., Gibson, T.~J., Karplus, K., Li, W., Lopez,
 Smith, T.~F. and Waterman, M.~S. (1981).
 \newblock Identification of common molecular subsequences.
 \newblock {\em Journal of molecular biology}, 147(1):195--197.
+
+\bibitem[Taylor et~al., 2014]{taylor2014srf}
+Taylor, A., Tang, W., Bruscia, E.~M., Zhang, P.-X., Lin, A., Gaines, P., Wu,
+  D., and Halene, S. (2014).
+\newblock Srf is required for neutrophil migration in response to inflammation.
+\newblock {\em Blood}, 123(19):3027--3036.
+
+\bibitem[Trapnell et~al., 2009]{trapnell2009tophat}
+Trapnell, C., Pachter, L., and Salzberg, S.~L. (2009).
+\newblock Tophat: discovering splice junctions with rna-seq.
+\newblock {\em Bioinformatics}, 25(9):1105--1111.
+
+\bibitem[Trapnell et~al., 2012]{trapnell2012differential}
+Trapnell, C., Roberts, A., Goff, L., Pertea, G., Kim, D., Kelley, D.~R.,
+  Pimentel, H., Salzberg, S.~L., Rinn, J.~L., and Pachter, L. (2012).
+\newblock Differential gene and transcript expression analysis of rna-seq
+  experiments with tophat and cufflinks.
+\newblock {\em Nature protocols}, 7(3):562--578.
 
 \bibitem[Von~Mering et~al., 2003]{von2003string}
 Von~Mering, C., Huynen, M., Jaeggi, D., Schmidt, S., Bork, P., and Snel, B.
