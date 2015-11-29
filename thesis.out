@@ -19,34 +19,36 @@
 \BOOKMARK [2][-]{subsection.1.4.8}{Sorting Hat Assembly Song}{section.1.4}% 19
 \BOOKMARK [2][-]{subsection.1.4.9}{Sequencing Techniques Worksheet}{section.1.4}% 20
 \BOOKMARK [2][-]{subsection.1.4.10}{16S Microbiome Analysis Activity}{section.1.4}% 21
-\BOOKMARK [0][-]{chapter.2}{Development of Analysis Code}{}% 22
-\BOOKMARK [1][-]{section.2.1}{Overview}{chapter.2}% 23
-\BOOKMARK [1][-]{section.2.2}{Genetics of Race}{chapter.2}% 24
-\BOOKMARK [1][-]{section.2.3}{Metagenomics Analysis}{chapter.2}% 25
-\BOOKMARK [1][-]{section.2.4}{Mac OS X and Windows Desktop App for Genetics of Race}{chapter.2}% 26
-\BOOKMARK [0][-]{chapter.3}{Mentorship}{}% 27
-\BOOKMARK [1][-]{section.3.1}{Overview}{chapter.3}% 28
-\BOOKMARK [1][-]{section.3.2}{Website development}{chapter.3}% 29
-\BOOKMARK [1][-]{section.3.3}{Introduction to Programming Course for Undergraduate BioSeqers}{chapter.3}% 30
-\BOOKMARK [2][-]{subsection.3.3.1}{Overview}{section.3.3}% 31
-\BOOKMARK [2][-]{subsection.3.3.2}{Demo}{section.3.3}% 32
-\BOOKMARK [2][-]{subsection.3.3.3}{a1}{section.3.3}% 33
-\BOOKMARK [2][-]{subsection.3.3.4}{a2}{section.3.3}% 34
-\BOOKMARK [2][-]{subsection.3.3.5}{a3}{section.3.3}% 35
-\BOOKMARK [2][-]{subsection.3.3.6}{a4}{section.3.3}% 36
-\BOOKMARK [2][-]{subsection.3.3.7}{a5}{section.3.3}% 37
-\BOOKMARK [1][-]{section.3.4}{Professional Development Material for BioSeq Members}{chapter.3}% 38
-\BOOKMARK [2][-]{subsection.3.4.1}{Overview}{section.3.4}% 39
-\BOOKMARK [2][-]{subsection.3.4.2}{How to Get Data and How to Store It}{section.3.4}% 40
-\BOOKMARK [2][-]{subsection.3.4.3}{Bioinformatics Tools}{section.3.4}% 41
-\BOOKMARK [2][-]{subsection.3.4.4}{Resources at Tufts and Introduction to the Command Line}{section.3.4}% 42
-\BOOKMARK [0][-]{chapter.4}{Development of Computer Science-Only Module}{}% 43
-\BOOKMARK [1][-]{section.4.1}{Overview}{chapter.4}% 44
-\BOOKMARK [1][-]{section.4.2}{Setup}{chapter.4}% 45
-\BOOKMARK [1][-]{section.4.3}{Procedure}{chapter.4}% 46
-\BOOKMARK [2][-]{subsection.4.3.1}{Obtaining the Data}{section.4.3}% 47
-\BOOKMARK [2][-]{subsection.4.3.2}{Creating a Galaxy Account and Uploading the Data}{section.4.3}% 48
-\BOOKMARK [2][-]{subsection.4.3.3}{Formatting the Data}{section.4.3}% 49
-\BOOKMARK [2][-]{subsection.4.3.4}{Aligning the Reads}{section.4.3}% 50
-\BOOKMARK [2][-]{subsection.4.3.5}{Assembling Transcripts}{section.4.3}% 51
-\BOOKMARK [2][-]{subsection.4.3.6}{Comparing}{section.4.3}% 52
+\BOOKMARK [2][-]{subsection.1.4.11}{Tree-Building Activity}{section.1.4}% 22
+\BOOKMARK [0][-]{chapter.2}{Development of Analysis Code}{}% 23
+\BOOKMARK [1][-]{section.2.1}{Overview}{chapter.2}% 24
+\BOOKMARK [1][-]{section.2.2}{Genetics of Race}{chapter.2}% 25
+\BOOKMARK [1][-]{section.2.3}{Metagenomics Analysis}{chapter.2}% 26
+\BOOKMARK [1][-]{section.2.4}{Mac OS X and Windows Desktop App for Genetics of Race}{chapter.2}% 27
+\BOOKMARK [0][-]{chapter.3}{Mentorship}{}% 28
+\BOOKMARK [1][-]{section.3.1}{Overview}{chapter.3}% 29
+\BOOKMARK [1][-]{section.3.2}{Website development}{chapter.3}% 30
+\BOOKMARK [1][-]{section.3.3}{Introduction to Programming Course for Undergraduate BioSeqers}{chapter.3}% 31
+\BOOKMARK [2][-]{subsection.3.3.1}{Overview}{section.3.3}% 32
+\BOOKMARK [2][-]{subsection.3.3.2}{Demo}{section.3.3}% 33
+\BOOKMARK [2][-]{subsection.3.3.3}{a1}{section.3.3}% 34
+\BOOKMARK [2][-]{subsection.3.3.4}{a2}{section.3.3}% 35
+\BOOKMARK [2][-]{subsection.3.3.5}{a3}{section.3.3}% 36
+\BOOKMARK [2][-]{subsection.3.3.6}{a4}{section.3.3}% 37
+\BOOKMARK [2][-]{subsection.3.3.7}{a5}{section.3.3}% 38
+\BOOKMARK [2][-]{subsection.3.3.8}{a-bonus}{section.3.3}% 39
+\BOOKMARK [1][-]{section.3.4}{Professional Development Material for BioSeq Members}{chapter.3}% 40
+\BOOKMARK [2][-]{subsection.3.4.1}{Overview}{section.3.4}% 41
+\BOOKMARK [2][-]{subsection.3.4.2}{How to Get Data and How to Store It}{section.3.4}% 42
+\BOOKMARK [2][-]{subsection.3.4.3}{Bioinformatics Tools}{section.3.4}% 43
+\BOOKMARK [2][-]{subsection.3.4.4}{Resources at Tufts and Introduction to the Command Line}{section.3.4}% 44
+\BOOKMARK [0][-]{chapter.4}{Development of Computer Science-Only Module}{}% 45
+\BOOKMARK [1][-]{section.4.1}{Overview}{chapter.4}% 46
+\BOOKMARK [1][-]{section.4.2}{Setup}{chapter.4}% 47
+\BOOKMARK [1][-]{section.4.3}{Procedure}{chapter.4}% 48
+\BOOKMARK [2][-]{subsection.4.3.1}{Obtaining the Data}{section.4.3}% 49
+\BOOKMARK [2][-]{subsection.4.3.2}{Creating a Galaxy Account and Uploading the Data}{section.4.3}% 50
+\BOOKMARK [2][-]{subsection.4.3.3}{Formatting the Data}{section.4.3}% 51
+\BOOKMARK [2][-]{subsection.4.3.4}{Aligning the Reads}{section.4.3}% 52
+\BOOKMARK [2][-]{subsection.4.3.5}{Assembling Transcripts}{section.4.3}% 53
+\BOOKMARK [2][-]{subsection.4.3.6}{Comparing}{section.4.3}% 54
