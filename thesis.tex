@@ -72,6 +72,8 @@ The MIE computer science lab introduces students to the concept of \emph{in sili
 In the microbiome experiment, students each swab their retroauricular crease (behind the ear) and hard palate in order to sequence the microbiomes living in these regions. The students use PICRUSt to generate the predicted WGS reads from the 16S sequencing results. The students then use LEfSe \cite{segata2011metagenomic} to find functions statistically enriched at each of these areas. Discussion questions help students come up with reasons why certain functions would be enriched in one of these regions (in comparison to the other). The analysis also seeks to answer whether samples closer by individual or by sample location. This section of the lab is answered by students running part of the analysis code described below.
 
 \subsection{Fastq Knowledge}
+\url{https://github.com/BioSeq/FastqKnowledge}\\
+
 \noindent This lab was never run with BioSeq students. It provides a UNIX command line interface through which students can interact with FASTQ files to help them understand the information contained within - regardless of the students' programming background.
 
 Fastq Knowledge reads in a FASTQ file, and prompts the student (through the command line) to select the information that the student wants to know about the file. Supported questions include querying the number of each type of nucleotide in the file, the GC content, the number of pages it would take to print the file in 12-point font, etc. See the corresponding figure regarding this lab.
@@ -94,6 +96,9 @@ I developed several generations of nucleotide alignment worksheets to help stude
 
 \subsection{Sanger Sequencing Worksheet}
 Denali and I developed a worksheet to teach Sanger sequencing. Students deduce the sequence of a nucleotide sequence by reading an illustration of a Sanger sequencing gel.
+
+\subsection{Protein Substitution Matrix Activity}
+Denali and I developed an activity to help students understand how protein substitution matrices are constructed. In this activity, students receive a BLOSUM-62 matrix that has some of the entries in the matrix removed. The students' task is to fill in the missing spots in the matrix using the rest of the matrix and their knowledge of amino acid structures.
 
 \subsection{Graph Drawing}
 In order to familiarize students with graphs, I call students up to the board by birthday. All January birthdays write their first names in a node on a graph, and every January birthday adds an edge to every other January birthday. This process is repeated for each month of the year, and at the end, the students have created a graph representation of the birthdays in the classroom.
