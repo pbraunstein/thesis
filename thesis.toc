@@ -53,3 +53,5 @@
 \contentsline {subsection}{\numberline {4.3.4}Aligning the Reads}{22}{subsection.4.3.4}
 \contentsline {subsection}{\numberline {4.3.5}Assembling Transcripts}{22}{subsection.4.3.5}
 \contentsline {subsection}{\numberline {4.3.6}Comparing}{22}{subsection.4.3.6}
+\contentsline {subsection}{\numberline {4.3.7}Analysis}{23}{subsection.4.3.7}
+\contentsline {chapter}{\numberline {5}Conclusion}{24}{chapter.5}

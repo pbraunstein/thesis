@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  1 DEC 2015 15:44
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  9 DEC 2015 20:49
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -298,7 +298,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
-[7] <fastqK.png, id=352, 404.51125pt x 507.8975pt>
+[7] <fastqK.png, id=362, 404.51125pt x 507.8975pt>
 File: fastqK.png Graphic file (type png)
  <use fastqK.png>
 Package pdftex.def Info: fastqK.png used on input line 83.
@@ -317,7 +317,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--149
 
  []
 
-<tree.pdf, id=391, 1084.05pt x 361.35pt>
+<tree.pdf, id=401, 1084.05pt x 361.35pt>
 File: tree.pdf Graphic file (type pdf)
  <use tree.pdf>
 Package pdftex.def Info: tree.pdf used on input line 159.
@@ -336,38 +336,44 @@ Overfull \hbox (6.13968pt too wide) in paragraph at lines 181--181
 [15
 
 ] [16] [17]
-Overfull \hbox (12.97131pt too wide) in paragraph at lines 226--226
+Missing character: There is no Ê in font cmr10!
+ [18]
+Overfull \hbox (12.97131pt too wide) in paragraph at lines 228--228
 []\OT1/cmr/bx/n/14.4 Professional De-vel-op-ment Ma-te-rial for BioSeq
  []
 
-[18] [19] [20]
+[19] [20]
 Chapter 4.
 [21
 
-] [22] (./thesis.bbl [23] [24
+] [22] [23]
+Chapter 5.
+(./thesis.bbl [24
 
-] [25] [26]
+] [25
+
+] [26] [27]
 Underfull \hbox (badness 2726) in paragraph at lines 210--213
 \OT1/cmr/m/n/10 Tophat: dis-cov-er-ing splice junc-tions with rna-seq.  \OT1/cm
 r/m/it/10 Bioin-for-mat-ics\OT1/cmr/m/n/10 ,
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 282.
- [27]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 282.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 293.
+ [28]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 293.
  (./thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 282.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 282.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 293.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 293.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 7AA744DE0D2C6839393A18EF68ABB477;3981.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 282.
+(rerunfilecheck)             Checksum: 70356F8B00245CB9D130847409B8C043;4089.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 293.
  ) 
 Here is how much of TeX's memory you used:
- 5517 strings out of 493488
- 81567 string characters out of 3141326
+ 5522 strings out of 493488
+ 81628 string characters out of 3141326
  256891 words of memory out of 3000000
- 8667 multiletter control sequences out of 15000+200000
+ 8669 multiletter control sequences out of 15000+200000
  9621 words of font info for 34 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  29i,7n,28p,986b,406s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -379,10 +385,10 @@ sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
 /local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/l
 ocal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/lo
 cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on thesis.pdf (28 pages, 213564 bytes).
+Output written on thesis.pdf (29 pages, 215659 bytes).
 PDF statistics:
- 571 PDF objects out of 1000 (max. 8388607)
- 523 compressed objects within 6 object streams
- 124 named destinations out of 1000 (max. 500000)
- 451 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 586 PDF objects out of 1000 (max. 8388607)
+ 537 compressed objects within 6 object streams
+ 127 named destinations out of 1000 (max. 500000)
+ 467 words of extra memory for PDF output out of 10000 (max. 10000000)
 

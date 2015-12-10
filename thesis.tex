@@ -212,9 +212,11 @@ This assignment is an extension of a3. The students modify their submissions for
 In a limited capacity, this assignment introduces the students to the concept of needing to be able to maintain and extend code they write.
 
 \subsection{a5}
-This last project serves as the final project for this programming course. In this project, students implement the dynamic programming Needleman-Wunsch Algorithm for pairwise global sequence alignment. This is a complicated project, and I evaluate it as being a similar difficulty as the final project from the first semester of computer science at Tufts University.
+This last project serves as the final project for this programming course. In this project, students implement the dynamic programming Needleman-Wunsch Algorithm for pairwise global sequence alignment. This is a very complicated project, so most students will need extra support such as an explanation of recursion, simple examples of recursion,  and examples stepping through the Needleman-Wunsch algorithm. 
 
 This program requires students to grapple with recursive function calls as well as programming with matrices. In the Needleman-Wunsch Algorithm, a matrix is constructed, and it is necessary to traverse this matrix recursively in the traceback section of the algorithm in order to find the best scoring alignment. In addition, if there exists more than one equally best scoring alignment, the algorithm (and thus the program) must report all of the best scoring alignments. This requires one recursive call of the traceback function sometimes spawning \emph{more than one} follow-up recursive calls. 
+
+There could potentially be an exponential number of highest-scoring alignments in the Needleman-Wunsch algorithm, which could lead to the program requiring an unreasonable amount of time to run. However, when run with sufficiently small strings, the program should run in an acceptable amount of time.
 
 \subsection{a-bonus}
 In the course of working for BioSeq, I also developed a programming assignment for the COMP7 class taught by Donna - this class is affiliated with the BioSeq program. The BioSeq undergrads did not do this assignment, but I have included it in this section since it is also a programming assignment that I developed. Donna suggested the idea for this project, and this programming project was used as one of the programming projects for COMP7 in Fall 2014.
@@ -275,8 +277,17 @@ Assemble the transcripts using the \texttt{Cufflinks} program found under the NG
 \subsection{Comparing}
 Run \texttt{Cuffmerge}, which can be found under the NGS:RNA-Seq tab on galaxy on the assembled transcripts files from the Cufflinks step. Use default settings. The output of this step should be used as the input for \texttt{Cuffdiff} program to calculate the differences in expression between the two samples. 
 
+\subsection{Analysis}
+Once all of the computational processing has been completed, the students analyze the data. This involves looking at differential expression of genes in the WT and KO samples. The goal is for students to find some of the genes that are most affected by the knockout. Ideally students form a hypothesis of \emph{why} differential expression of key genes causes the phenotype observed in the knocked out cells.
+
+\chapter{Conclusion}
+I greatly enjoyed being a part of the BioSeq group. Working at the crossroads of biology, computer science, and education was a very rewarding experience for me. It was exciting to be able to use my background in biochemistry to further my transition into computer science.
+
+Working for Bioseq was also the first opportunity I had to be the lead programmer in charge of all of the analysis scripts for a group. This was an excellent experience because it taught me about how to write maintainable and extensible code.
+
+Finally, I am very grateful for having had the opportunity to work with BioSeq because I have been able to greatly improve my communication skills from two summers of teaching. I believe that I can express and explain technical ideas with greater clarity than when I started at BioSeq, and this will be an asset I take with me through my entire career. 
+
+
 \bibliography{thesis}
-
-
 
 \end{document}
