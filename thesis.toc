@@ -7,7 +7,7 @@
 \contentsline {subsection}{\numberline {1.3.3}Multiple Sequence Alignment}{6}{subsection.1.3.3}
 \contentsline {subsection}{\numberline {1.3.4}Mutations Investigations Experiment Analysis}{7}{subsection.1.3.4}
 \contentsline {subsection}{\numberline {1.3.5}Microbiome Portrait Experiment Analysis}{7}{subsection.1.3.5}
-\contentsline {subsection}{\numberline {1.3.6}Fastq Knowledge}{7}{subsection.1.3.6}
+\contentsline {subsection}{\numberline {1.3.6}FastqKnowledge}{7}{subsection.1.3.6}
 \contentsline {section}{\numberline {1.4}Classroom Activities}{8}{section.1.4}
 \contentsline {subsection}{\numberline {1.4.1}Sliding Window Activity}{9}{subsection.1.4.1}
 \contentsline {subsection}{\numberline {1.4.2}Alignment Worksheets}{9}{subsection.1.4.2}
