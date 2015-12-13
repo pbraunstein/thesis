@@ -14,12 +14,12 @@
 \contentsline {subsection}{\numberline {1.4.3}Sanger Sequencing Worksheet}{9}{subsection.1.4.3}
 \contentsline {subsection}{\numberline {1.4.4}Protein Substitution Matrix Activity}{9}{subsection.1.4.4}
 \contentsline {subsection}{\numberline {1.4.5}Graph Drawing}{9}{subsection.1.4.5}
-\contentsline {subsection}{\numberline {1.4.6}Protein Alignment Worksheet}{9}{subsection.1.4.6}
+\contentsline {subsection}{\numberline {1.4.6}Protein Alignment Worksheet}{10}{subsection.1.4.6}
 \contentsline {subsection}{\numberline {1.4.7}Paired-End Sequencing Quotations Activity}{10}{subsection.1.4.7}
 \contentsline {subsection}{\numberline {1.4.8}Coverage Word-Search}{10}{subsection.1.4.8}
 \contentsline {subsection}{\numberline {1.4.9}Sorting Hat Assembly Song}{10}{subsection.1.4.9}
 \contentsline {subsection}{\numberline {1.4.10}Sequencing Techniques Worksheet}{10}{subsection.1.4.10}
-\contentsline {subsection}{\numberline {1.4.11}16S Microbiome Analysis Activity}{10}{subsection.1.4.11}
+\contentsline {subsection}{\numberline {1.4.11}16S Microbiome Analysis Activity}{11}{subsection.1.4.11}
 \contentsline {subsection}{\numberline {1.4.12}Tree-Building Activity}{11}{subsection.1.4.12}
 \contentsline {chapter}{\numberline {2}Development of Analysis Code}{12}{chapter.2}
 \contentsline {section}{\numberline {2.1}Overview}{12}{section.2.1}
@@ -29,14 +29,14 @@
 \contentsline {chapter}{\numberline {3}Mentorship}{15}{chapter.3}
 \contentsline {section}{\numberline {3.1}Overview}{15}{section.3.1}
 \contentsline {section}{\numberline {3.2}Website development}{15}{section.3.2}
-\contentsline {section}{\numberline {3.3}Introduction to Programming Course for Undergraduate BioSeqers}{16}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Overview}{16}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.3}Introduction to Programming Course for Undergraduate BioSeqers}{15}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Overview}{15}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Demo}{16}{subsection.3.3.2}
 \contentsline {subsection}{\numberline {3.3.3}a1}{16}{subsection.3.3.3}
 \contentsline {subsection}{\numberline {3.3.4}a2}{17}{subsection.3.3.4}
 \contentsline {subsection}{\numberline {3.3.5}a3}{17}{subsection.3.3.5}
 \contentsline {subsection}{\numberline {3.3.6}a4}{17}{subsection.3.3.6}
-\contentsline {subsection}{\numberline {3.3.7}a5}{18}{subsection.3.3.7}
+\contentsline {subsection}{\numberline {3.3.7}a5}{17}{subsection.3.3.7}
 \contentsline {subsection}{\numberline {3.3.8}a-bonus}{18}{subsection.3.3.8}
 \contentsline {section}{\numberline {3.4}Professional Development Material for BioSeq Members}{19}{section.3.4}
 \contentsline {subsection}{\numberline {3.4.1}Overview}{19}{subsection.3.4.1}
